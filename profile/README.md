@@ -3,15 +3,15 @@
 We are a world-class multidisciplinary research center dedicated to:
 
 
-##### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="20" height="20"> computational modeling in molecular biophysics
+#### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="20" height="20"> computational modeling in molecular biophysics
 
-##### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="20" height="20"> mechanical and materials engineering
+#### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="20" height="20"> mechanical and materials engineering
 
-##### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="20" height="20"> computational biology and bioinformatics
+#### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="20" height="20"> computational biology and bioinformatics
 
-##### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="20" height="20"> computational geophysics
+#### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="20" height="20"> computational geophysics
 
-##### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="20" height="20"> computer science
+#### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="20" height="20"> computer science
 
 The center is a thriving scientific environment for students and post-doctoral fellows interested in high-performance computer simulations, computational modeling, and data-intensive computing to solve frontier problems in molecular sciences and engineering.
 
