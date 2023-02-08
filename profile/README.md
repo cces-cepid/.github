@@ -16,5 +16,5 @@ We are a world-class multidisciplinary research center dedicated to:
 The center is a thriving scientific environment for students and post-doctoral fellows interested in high-performance computer simulations, computational modeling, and data-intensive computing to solve frontier problems in molecular sciences and engineering.
 
 Check out our latest work: 
-
+ 
 <a href="https://scholar.google.com.br/citations?user=UmSLN7sAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&logoColor=white&style=for-the-badge&logoWidth=20" height="28" alt="Google Scholar" /></a>
